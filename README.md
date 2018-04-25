@@ -1,21 +1,8 @@
-# SIGA Angular front-end
+# Angular front-end
 
-__Projet SIGA pour l'AEAG :__
+### About this project
 
-Ceci est le projet frontal pour l'application SIGA.
-
-### Documentation
-
-La documentation concernant les outils, l'environnement et les différentes procédures sont disponibles dans la partie
-<a href="./additional-documentation/installation-procedures.html">Additional documentation</a>.
-
-### Base NG2-Admin
-
-Ce projet utilise comme template le projet ng2-admin, réalisé à la base en Angular2 et porté par Akka en Angular5+.
-
-<a target="_blank" href="http://akveo.com/ng2-admin/"><img src="http://i.imgur.com/QK9AzHj.jpg" width="600" alt="Sky Blue"/></a>
-
-<a target="_blank" href="http://akveo.com/ng2-admin/">Live Demo NG2-Admin</a>
+Mock of an existing application in order to integrate a custom generic Autocomplete Input from Angular Material.
 
 ## Documentation NG2-Admin
 Installation, customization and other useful articles: 
